@@ -399,6 +399,6 @@ The tool provides clear error messages and prevents dangerous operations:
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
+## 📄 License by lasun vongveodeeeee
 
 This project is licensed under the MIT License. 
